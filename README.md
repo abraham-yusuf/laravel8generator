@@ -9,6 +9,17 @@
 
 # Laravel 8 Generator
 
+## CRUD Using GUI
+Visit 
+
+`http://127.0.0.1:8000/generator_builder
+`
+
+## Manual CRUD
+Visit Docs 
+
+`https://infyom.com/open-source/laravelgenerator/docs/getting-started`
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
